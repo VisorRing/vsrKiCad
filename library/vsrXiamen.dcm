@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AQM1248A-RN
+D Monochrome Graphic LCD 48x128 dots
+K monochrome graphic LCD Xiamen
+$ENDCMP
+#
+$CMP AQM1602Y-NLW
+D Character LCD 16x2 with Backlight
+K character LCD Xiamen
+$ENDCMP
+#
+$CMP AQM1602Y-RN-GBW
+D Character LCD 16x2
+K character LCD Xiamen
+$ENDCMP
+#
+#End Doc Library
