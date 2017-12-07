@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT77xxA_SOT23
+D Holtek PFM Step-up DC/DC Converter
+$ENDCMP
+#
+$CMP HT77xxA_TO92
+D Holtek PFM Step-up DC/DC Converter
+$ENDCMP
+#
+#End Doc Library
