@@ -12,14 +12,14 @@ VSRKICADLIB  | /Users/yourname/GitHUB/vsrKiCad
 カテゴリ | 品番 | コンポーネント | フットプリント | 3Dシェイプ 
 ----|----|----|----|----
 USBコネクタ | MRUSB-2B-D14NI-S306 | ✓ | ✓ | ✓ |
-DC-DCコンバータIC | HT7730A | ✓ | | |
-無線モジュール | TWELITE |  ✓ | ✓ | ✓ |
-LCDキャラクタディスプレイ | AQM1602Y-NLW |  ✓ | ✓ | ✓ |
-   | AQM1602Y-RN | ✓ | ✓ | ✓ |
-LCDグラフィックディスプレイ | AQM1248A-RN | ✓ | ✓ | ✓ |
+DC-DCコンバータIC | Holtek HT7730A | ✓ | | |
+無線モジュール | MONO-WIRELESS TWELITE |  ✓ | ✓ | ✓ |
+LCDキャラクタディスプレイ | Xiamen Zettler AQM1602Y-NLW |  ✓ | ✓ | ✓ |
+   | Xiamen Zettler AQM1602Y-RN | ✓ | ✓ | ✓ |
+LCDグラフィックディスプレイ | Xiamen Zettler AQM1248A-RN | ✓ | ✓ | ✓ |
 電池ボックス | BH-321-1P24 | | ✓ | ✓ |
    | BH-321-2P24 | | ✓ | ✓ |
    | CH004-2032LF | | ✓ | ✓ |
 タクトスイッチ | SKRPACE010 | |  ✓ | ✓ |
-圧電サウンダ | PKLCS1212E4001 | | ✓ | ✓ |
+圧電サウンダ | ムラタ PKLCS1212E4001 | | ✓ | ✓ |
 インダクタ | 東光 A915AY | |  ✓ | ✓ |
