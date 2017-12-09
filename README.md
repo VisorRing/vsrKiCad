@@ -9,6 +9,8 @@ Name   |  Path
 -------|-------
 VSRKICADLIB  | /Users/yourname/GitHUB/vsrKiCad
 
+収録リスト
+
 カテゴリ | 品番 | コンポーネント | フットプリント | 3Dシェイプ 
 ----|----|----|----|----
 USBコネクタ | MRUSB-2B-D14NI-S306 | ✓ | ✓ | ✓ |
