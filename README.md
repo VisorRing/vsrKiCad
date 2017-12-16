@@ -19,6 +19,7 @@ DC-DCコンバータIC | Holtek HT7730A | ✓ | | |
 LCDキャラクタディスプレイ | Xiamen Zettler AQM1602Y-NLW |  ✓ | ✓ | ✓ |
    | Xiamen Zettler AQM1602Y-RN | ✓ | ✓ | ✓ |
 LCDグラフィックディスプレイ | Xiamen Zettler AQM1248A-RN | ✓ | ✓ | ✓ |
+   | Xiamen Zettler AQM1248A-FLW-FBW | ✓ | ✓ | ✓ |
 電池ボックス | BH-321-1P24 | | ✓ | ✓ |
    | BH-321-2P24 | | ✓ | ✓ |
    | CH004-2032LF | | ✓ | ✓ |
