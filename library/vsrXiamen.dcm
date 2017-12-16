@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AQM1248A-FLW-FBW
+D Monochrome Graphic LCD 48x128 dots with backlight
+K monochrome graphic LCD Xiamen backlight
+$ENDCMP
+#
 $CMP AQM1248A-RN
 D Monochrome Graphic LCD 48x128 dots
 K monochrome graphic LCD Xiamen
