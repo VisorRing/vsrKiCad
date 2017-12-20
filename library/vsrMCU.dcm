@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LPC11U35FHI33/501
+D MCU,Cortex-M0,50MHz,64KB Flash,USB,QFN32 NXP LPC11U35FHI33/501, 32bit ARM Cortex M0 Microcontroller, 50MHz, 64 kB Flash, 33-Pin QFN
+$ENDCMP
+#
+#End Doc Library

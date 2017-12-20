@@ -1,4 +1,5 @@
 (module CH004-2032LF (layer F.Cu) (tedit 5A1EBAE7)
+  (tags "Coin Cell Holder, SMD, CR2032")
   (fp_text reference REF** (at 0 -1.27) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

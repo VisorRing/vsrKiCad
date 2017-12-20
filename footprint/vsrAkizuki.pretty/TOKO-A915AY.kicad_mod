@@ -1,4 +1,5 @@
 (module TOKO-A915AY (layer F.Cu) (tedit 5A2E8595)
+  (tags "Inductor, SMD, Type D53LC")
   (fp_text reference REF** (at 0 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -5,4 +5,9 @@ D USB micro power connector
 K connector USB
 $ENDCMP
 #
+$CMP SW_Push_4P
+D Push button switch, generic, four pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
 #End Doc Library
