@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM12888F
+D LDO Regulator, bipoler, 300mA, soft start, discharge function
+K ldo regulator, bipoler, 300mA
+$ENDCMP
+#
+$CMP NJM2845DL1
+D LDO Regulator, bipoler, 800mA
+K ldo regulator, bipoler, 800mA
+$ENDCMP
+#
+#End Doc Library
