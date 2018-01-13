@@ -14,6 +14,7 @@ VSRKICADLIB  | /Users/yourname/GitHUB/vsrKiCad
 カテゴリ | 品番 | コンポーネント | フットプリント | 3Dシェイプ 
 ----|----|----|----|----
 USBコネクタ | MRUSB-2B-D14NI-S306 | ✓ | ✓ | ✓ |
+   | ヒロセ ZX62R-B-5P | | ✓ | ✓ |
 DC-DCコンバータIC | Holtek HT7730A | ✓ | | |
 無線モジュール | MONO-WIRELESS TWELITE |  ✓ | ✓ | ✓ |
 LCDキャラクタディスプレイ | Xiamen Zettler AQM1602Y-NLW |  ✓ | ✓ | ✓ |
@@ -30,3 +31,5 @@ LCDグラフィックディスプレイ | Xiamen Zettler AQM1248A-RN | ✓ | ✓
 インダクタ | 東光 A915AY | |  ✓ | ✓ |
 クリスタル | シワード 表面実装型 | | ✓ | ✓ |
 MCU | LPC11U35FHI33/501 | ✓ | ✓ | ✓ |
+低電圧レギュレータ | 新日本無線 NJM2845DL1 | ✓ | | |
+   | 新日本無線 NJM12888F | ✓ | | |
