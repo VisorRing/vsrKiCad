@@ -10,4 +10,9 @@ D Push button switch, generic, four pins
 K switch normally-open pushbutton push-button
 $ENDCMP
 #
+$CMP USB_microB
+D USB micro connector
+K connector USB
+$ENDCMP
+#
 #End Doc Library
